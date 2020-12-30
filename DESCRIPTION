@@ -1,0 +1,12 @@
+Package: sustitucion1
+Type: Package
+Title: Graficos para sustitucion
+Version: 1.0
+Author: Elizabet Cano, Mariana Fuentes, Fabian Pino
+Maintainer: Elizabet Cano, Mariana Fuentes, Fabian Pino <ecano@grupo-exito.com>
+Description: Este paquete realiza analisis de sustitucion mediante graficos que presentan de forma resumida y desagregada el comportamiento de los datos. En el primer grafico (de burbujas) se presenta la informacion de multiples variables (continuas y categoricas) en el nivel mas desagregado, el cual es un grafico en 2 dimensiones con caracteristicas que permiten visualizar las distintas variables que se quieren mostrar. El segundo grafico (tortas) resume la informacion de n variables (categoricas) en n graficos de torta, con el objetivo de ver las frecuencias de cada una de las categorias de cada variable.
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.6.1)
+Imports: dplyr, plotly
+RoxygenNote: 7.1.1

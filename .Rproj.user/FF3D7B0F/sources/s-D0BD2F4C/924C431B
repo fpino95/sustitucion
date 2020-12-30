@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1607607949361.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "924C431B",
+    "lastKnownWriteTime" : 1607611126,
+    "last_content_update" : 1607611126120,
+    "path" : "~/OneDrive - Grupo-exito.com/pc/Documentos/sustitucion/R/tortas.R",
+    "project_path" : "R/tortas.R",
+    "properties" : {
+        "cursorPosition" : "6,12",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

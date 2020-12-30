@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1606766040791.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "647CD784",
+    "lastKnownWriteTime" : 1607612141,
+    "last_content_update" : 1607612141466,
+    "path" : "~/OneDrive - Grupo-exito.com/pc/Documentos/sustitucion/R/burbujas.R",
+    "project_path" : "R/burbujas.R",
+    "properties" : {
+        "cursorPosition" : "13,65",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
